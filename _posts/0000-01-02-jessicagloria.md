@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-This document is my first document in github. I0m learning to become a IT master.:)
+sometimes I believe that i'll never be able to learn all this amazing stuff.
 Use the left arrow to go back!
